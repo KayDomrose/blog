@@ -1,5 +1,4 @@
 # My blog
-This is my personal blog.
+This is my personal blog about stuff i know about stuff on the internetz.
 
-## [DE] Laravel-Controller sichern mit Form-Request und Gate
-[https://github.com/KayDomrose/blog/blob/master/posts/laravel-controller/laravel-controller-sichern-mit-requests-und-gates.md](https://github.com/KayDomrose/blog/blob/master/posts/laravel-controller/laravel-controller-sichern-mit-requests-und-gates.md)
+- [Secure Laravel Controllers With Form Request And Gates](https://github.com/KayDomrose/blog/blob/master/posts/laravel-request-gate/secure-laravel-controllers-with-form-requests-and-gates.md)
